@@ -2,9 +2,6 @@ class script(object):
     START_TXT = """<b>{}, {}
 
 ɪ ᴀᴍ <a href="https://telegram.me/{}">{}</a>, Movie Request bot
-🍀  MOVIE IN TAMIL ....🔍🔎
-✅ Web series in Tamil ✨ 
-☯️❄️Search Movie Name Or webseries 👍
 <blockquote><i>✨ ꜱᴇᴀʀᴄʜ ᴀɴʏ ᴀɴɪᴍᴇ ᴄᴏɴᴛᴇɴᴛ ɪɴ ꜱᴇᴄᴏɴᴅꜱ.</i></blockquote></b>"""
 
     ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://telegram.me/{}>{}</a>

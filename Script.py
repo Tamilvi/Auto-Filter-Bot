@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """<b>{}, {}
 
-ɪ ᴀᴍ <a href="https://telegram.me/{}">{}</a>, Movie Request bot 😃 /
+ɪ ᴀᴍ <a href="https://telegram.me/{}">{}</a>, Movie Request bot
 🍀  MOVIE IN TAMIL ....🔍🔎
 ✅ Web series in Tamil ✨ 
 ☯️❄️Search Movie Name Or webseries 👍
@@ -142,7 +142,7 @@ class script(object):
 
 <b>‣ ꜱɪᴢᴇ : </b>{file_size}
 
-<b>🍁 ʙʏ : <a href="https://telegram.me/techifybots">[ ᴛᴇᴄʜɪꜰʏʙᴏᴛs ]</a></b>"""
+<b>🍁 ʙʏ : <a href="https://telegram.me/cinemacityhub_info">[ Cinemacityhubʙᴏᴛs ]</a></b>"""
 
     UPDATE_NOTIFY_TXT = """</b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
 
@@ -229,7 +229,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
 ʏᴏᴜ ᴄᴀɴ ᴘᴜʀᴄʜᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ ᴛʜʀᴏᴜɢʜ ᴜᴘɪ , ɴᴇᴛ ʙᴀɴᴋɪɴɢ.
 
-💳 <a href='https://TechifyBots.github.io/PayWeb'>ᴘᴀʏ ᴡɪᴛʜ ᴜᴘɪ</a>
+💳 <a href=''>ᴘᴀʏ ᴡɪᴛʜ ᴜᴘɪ</a>
 
 💢 ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 

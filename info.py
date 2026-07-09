@@ -33,7 +33,7 @@ AUTH_REQ_CHANNELS = [int(ch) for ch in environ.get("AUTH_REQ_CHANNELS", "-100346
 REQST_CHANNEL = int(ch) if (ch := environ.get("REQST_CHANNEL", "-1002974069324")) and id_pattern.search(ch) else None
 SUPPORT_CHAT_ID = int(ch) if (ch := environ.get("SUPPORT_CHAT_ID", "-1002423421730")) and id_pattern.search(ch) else None
 
-OWNER = int(os.environ.get("OWNER", "@cinemacityhub"))
+OWNER = int(os.environ.get("OWNER", "6497757690"))
 CHANNEL_LINK = environ.get('CHANNEL_LINK', 'https://telegram.me/Cinemacityhub_info')
 GROUP_LINK = environ.get('GROUP_LINK', 'https://t.me/tamil_movie_web_series_2025')
 
